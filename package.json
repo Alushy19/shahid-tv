@@ -1,0 +1,12 @@
+{
+  "name": "shahid-tv-tizen",
+  "version": "1.0.0",
+  "description": "Shahid (shahid.mbc.net) com controle remoto da Samsung: navegação por setas, player com avançar/voltar e cursor opcional.",
+  "packageType": "mods",
+  "appName": "Shahid TV",
+  "websiteURL": "https://shahid.mbc.net/ar",
+  "main": "dist/userScript.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "MediaFastForward", "MediaRewind", "ColorF0Red", "0"],
+  "evaluateScriptOnDocumentStart": false,
+  "license": "MIT"
+}
